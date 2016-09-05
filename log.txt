@@ -1,0 +1,446 @@
+2015-07-17 19:38:10 INFO  ClientGUI:67 - Exchange button was pressed. The exchange is :0.16604285
+2015-07-17 19:38:56 ERROR ClientGUI:72 - Wrong input -> (For input string: "k")
+2015-07-17 19:39:09 INFO  ClientGUI:67 - Exchange button was pressed. The exchange is :6.254732
+2015-07-17 19:39:16 ERROR ClientGUI:78 - Wrong input -> (The currencies has not been chosen)
+2015-07-17 19:40:36 INFO  ClientGUI:67 - Exchange button was pressed. The exchange is :1.8292081
+2015-07-17 19:40:42 INFO  ClientGUI:67 - Exchange button was pressed. The exchange is :7.83013
+2015-07-17 19:40:52 ERROR ClientGUI:72 - Wrong input -> (empty String)
+2015-07-17 22:52:53 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :0.15242146
+2015-07-17 22:52:59 ERROR ClientGUI:74 - Wrong input -> (empty String)
+2015-07-17 22:53:05 ERROR ClientGUI:80 - Wrong input -> (The currencies has not been chosen)
+2015-07-17 22:53:10 ERROR ClientGUI:80 - Wrong input -> (The currencies has not been chosen)
+2015-07-17 22:53:14 ERROR ClientGUI:74 - Wrong input -> (For input string: "s")
+2015-07-17 22:53:21 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :-121.31483
+2015-07-17 22:53:38 ERROR ClientGUI:74 - Wrong input -> (For input string: "-9.e")
+2015-07-17 22:53:44 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :-121.31483
+2015-07-17 22:53:48 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :-121.31483
+2015-07-17 22:53:55 ERROR ClientGUI:74 - Wrong input -> (For input string: "-9.a")
+2015-07-17 22:54:03 ERROR ClientGUI:74 - Wrong input -> (For input string: "-9.b")
+2015-07-17 22:54:11 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :-121.31483
+2015-07-17 22:54:15 ERROR ClientGUI:74 - Wrong input -> (For input string: "d")
+2015-07-17 22:54:19 ERROR ClientGUI:74 - Wrong input -> (For input string: "-d")
+2015-07-17 22:54:23 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :121.31483
+2015-07-17 22:55:35 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :121.31483
+2015-07-17 22:55:54 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :123.20195
+2015-07-17 22:55:59 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :123.067154
+2015-07-17 22:56:04 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :122.93236
+2015-07-17 22:56:08 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :122.66277
+2015-07-17 22:56:11 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :133.4463
+2015-07-17 22:56:16 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :121.31483
+2015-07-17 22:56:21 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :121.44962
+2015-07-17 22:56:46 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :121.46309
+2015-07-17 22:56:52 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :121.32965
+2015-07-17 22:57:03 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :121.31483
+2015-07-17 22:57:17 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :121.329796
+2015-07-17 22:57:23 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :121.329796
+2015-07-17 22:58:01 INFO  ClientGUI:69 - Exchange button was pressed. The exchange is :111.38213
+2015-07-17 23:41:51 INFO  ClientGUI:72 - Exchange button was pressed. The exchange is :0.15242146
+2015-07-17 23:44:28 INFO  ClientGUI:72 - Exchange button was pressed. The exchange is :0.18102095
+2015-07-17 23:44:33 ERROR ClientGUI:77 - Wrong input -> (For input string: "s")
+2015-07-17 23:44:37 ERROR ClientGUI:77 - Wrong input -> (For input string: "d")
+2015-07-17 23:44:42 INFO  ClientGUI:72 - Exchange button was pressed. The exchange is :1.6291884
+2015-07-17 23:44:52 INFO  ClientGUI:72 - Exchange button was pressed. The exchange is :0.03620419
+2015-07-17 23:44:56 INFO  ClientGUI:72 - Exchange button was pressed. The exchange is :0.03620419
+2015-07-17 23:45:03 ERROR ClientGUI:77 - Wrong input -> (For input string: ".d")
+2015-07-17 23:45:08 INFO  ClientGUI:72 - Exchange button was pressed. The exchange is :0.0
+2015-07-17 23:45:18 INFO  ClientGUI:72 - Exchange button was pressed. The exchange is :0.18102095
+2015-07-17 23:45:24 INFO  ClientGUI:72 - Exchange button was pressed. The exchange is :0.18102095
+2015-07-17 23:45:29 INFO  ClientGUI:72 - Exchange button was pressed. The exchange is :0.18102095
+2015-07-17 23:45:33 INFO  ClientGUI:72 - Exchange button was pressed. The exchange is :0.3620419
+2015-07-17 23:45:37 INFO  ClientGUI:72 - Exchange button was pressed. The exchange is :0.3620419
+2015-07-17 23:45:47 INFO  ClientGUI:72 - Exchange button was pressed. The exchange is :0.3620419
+2015-07-17 23:45:57 ERROR ClientGUI:77 - Wrong input -> (For input string: "2.l")
+2015-07-17 23:46:50 INFO  ClientGUI:72 - Exchange button was pressed. The exchange is :0.10019633
+2015-07-17 23:53:54 ERROR ParsingXML:118 - Problem with parsing from net -> Offline mode
+2015-07-17 23:55:37 ERROR ParsingXML:115 - Problem with parsing from net -> Offline mode
+2015-07-18 00:17:41 INFO  ClientGUI:72 - Exchange button was pressed. The exchange is :0.10915054
+2015-07-18 00:23:42 INFO  ClientGUI:73 - Exchange button was pressed. The exchange is :2.259887
+2015-07-18 00:24:45 INFO  ClientGUI:73 - Exchange button was pressed. The exchange is :0.16848063
+2015-07-18 00:24:52 INFO  ClientGUI:73 - Exchange button was pressed. The exchange is :2.8053
+2015-07-18 01:47:48 ERROR ParsingXML:134 - Problem with parsing from net -> Offline mode
+2015-07-18 01:49:40 ERROR ParsingXML:134 - Problem with parsing from net -> Offline mode
+2015-07-18 01:54:22 INFO  ClientGUI:74 - Exchange button was pressed. The exchange is :0.14479712
+2015-07-18 02:01:50 INFO  ClientGUI:75 - Exchange button was pressed. The exchange is :0.70911235
+2015-07-18 02:02:23 INFO  ClientGUI:76 - Exchange button was pressed. The exchange is :8.562712
+2015-07-18 02:02:30 INFO  ClientGUI:76 - Exchange button was pressed. The exchange is :0.77094215
+2015-07-18 02:02:35 INFO  ClientGUI:76 - Exchange button was pressed. The exchange is :1.2971141
+2015-07-18 02:02:45 ERROR ClientGUI:87 - Wrong input -> (The currencies has not been chosen)
+2015-07-18 02:02:49 ERROR ClientGUI:81 - Wrong input -> (empty String)
+2015-07-18 02:02:56 INFO  ClientGUI:76 - Exchange button was pressed. The exchange is :1.0
+2015-07-18 02:03:00 INFO  ClientGUI:76 - Exchange button was pressed. The exchange is :0.63837314
+2015-07-18 02:03:07 ERROR ClientGUI:87 - Wrong input -> (The currencies has not been chosen)
+2015-07-18 02:18:43 ERROR ClientGUI:86 - Wrong input -> (The currencies has not been chosen)
+2015-07-18 02:34:36 ERROR ClientGUI:91 - Wrong input -> (The currencies has not been chosen)
+2015-07-18 02:34:42 INFO  ClientGUI:80 - Exchange button was pressed. The exchange is :0.05388579
+2015-07-18 03:11:03 INFO  ClientGUI:77 - Turning default currency to convert from
+2015-07-18 03:11:05 ERROR ClientGUI:92 - Wrong input -> (empty String)
+2015-07-18 03:11:44 INFO  ClientGUI:77 - Turning default currency to convert from
+2015-07-18 03:11:54 ERROR ClientGUI:92 - Wrong input -> (empty String)
+2015-07-18 03:12:15 INFO  ClientGUI:77 - Turning default currency to convert from
+2015-07-18 03:12:15 INFO  ClientGUI:87 - Exchange button was pressed. The exchange is :3.2658393
+2015-07-18 03:13:37 INFO  ClientGUI:77 - Turning default currency to convert from
+2015-07-18 03:13:37 INFO  ClientGUI:87 - Exchange button was pressed. The exchange is :3.2658393
+2015-07-18 03:21:33 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.112855546
+2015-07-18 03:21:35 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :1.2945923
+2015-07-18 03:21:46 INFO  ClientGUI:78 - Turning default currency to convert from
+2015-07-18 03:21:46 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.24228328
+2015-07-18 03:21:55 INFO  ClientGUI:78 - Turning default currency to convert from
+2015-07-18 03:21:55 INFO  ClientGUI:92 - Turning default currency to convert from
+2015-07-18 03:21:55 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :1.0
+2015-07-18 03:22:18 INFO  ClientGUI:92 - Turning default currency to convert from
+2015-07-18 03:22:18 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :3.056
+2015-07-18 03:22:57 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :1.748462
+2015-07-18 03:22:59 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :12.265758
+2015-07-18 03:23:03 INFO  ClientGUI:78 - Turning default currency to convert from
+2015-07-18 03:23:03 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :2.0665426
+2015-07-18 03:23:57 INFO  ClientGUI:78 - Turning default currency to convert from
+2015-07-18 03:23:57 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :2.0665426
+2015-07-18 03:24:40 INFO  ClientGUI:92 - Turning default currency to convert from
+2015-07-18 03:24:40 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :5.9354
+2015-07-18 03:26:16 INFO  ClientGUI:92 - Turning default currency to convert from
+2015-07-18 03:26:16 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :5.9354
+2015-07-18 03:26:26 INFO  ClientGUI:79 - Turning default currency to convert from
+2015-07-18 03:26:26 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.16848063
+2015-07-18 03:30:43 INFO  ClientGUI:88 - Turning default currency to convert from
+2015-07-18 03:30:43 INFO  ClientGUI:95 - Exchange button was pressed. The exchange is :3.789
+2015-07-18 03:30:50 INFO  ClientGUI:88 - Turning default currency to convert from
+2015-07-18 03:30:50 INFO  ClientGUI:95 - Exchange button was pressed. The exchange is :7.578
+2015-07-18 03:30:58 INFO  ClientGUI:95 - Exchange button was pressed. The exchange is :1.9127669
+2015-07-18 03:31:00 INFO  ClientGUI:95 - Exchange button was pressed. The exchange is :0.1545762
+2015-07-18 03:31:04 INFO  ClientGUI:76 - Turning default currency to convert from
+2015-07-18 03:31:04 INFO  ClientGUI:95 - Exchange button was pressed. The exchange is :0.504821
+2015-07-18 03:31:08 INFO  ClientGUI:76 - Turning default currency to convert from
+2015-07-18 03:31:09 INFO  ClientGUI:88 - Turning default currency to convert from
+2015-07-18 03:31:09 INFO  ClientGUI:95 - Exchange button was pressed. The exchange is :2.0
+2015-07-18 03:33:55 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.078478284
+2015-07-18 03:34:15 INFO  ClientGUI:95 - Exchange button was pressed. The exchange is :0.95638347
+2015-07-18 03:34:33 INFO  ClientGUI:76 - Turning default currency to convert from
+2015-07-18 03:34:33 INFO  ClientGUI:95 - Exchange button was pressed. The exchange is :0.2524105
+2015-07-18 03:34:40 INFO  ClientGUI:88 - Turning default currency to convert from
+2015-07-18 03:34:40 INFO  ClientGUI:95 - Exchange button was pressed. The exchange is :3.789
+2015-07-18 03:34:44 INFO  ClientGUI:88 - Turning default currency to convert from
+2015-07-18 03:34:44 INFO  ClientGUI:95 - Exchange button was pressed. The exchange is :0.0251
+2015-07-18 04:09:43 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.15148403
+2015-07-18 04:09:45 INFO  ClientGUI:80 - Turning default currency to convert from Shekel
+2015-07-18 04:09:45 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.3423368
+2015-07-18 04:09:50 INFO  ClientGUI:92 - Turning default currency to convert to Shekel
+2015-07-18 04:09:50 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :3.056
+2015-07-18 04:10:01 INFO  ClientGUI:92 - Turning default currency to convert to Shekel
+2015-07-18 04:10:01 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :5.3433
+2015-07-18 04:11:00 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :22.03984
+2015-07-18 12:16:56 ERROR ParsingXML:73 - Problem with parsing from net -> Offline mode
+2015-07-18 12:16:57 ERROR ParsingXML:73 - Problem with parsing from net -> Offline mode
+2015-07-18 12:16:58 ERROR ParsingXML:73 - Problem with parsing from net -> Offline mode
+2015-07-18 12:16:59 ERROR ParsingXML:73 - Problem with parsing from net -> Offline mode
+2015-07-18 12:17:00 ERROR ParsingXML:73 - Problem with parsing from net -> Offline mode
+2015-07-18 12:17:01 ERROR ParsingXML:73 - Problem with parsing from net -> Offline mode
+2015-07-18 12:17:03 ERROR ParsingXML:73 - Problem with parsing from net -> Offline mode
+2015-07-18 12:18:24 ERROR ParsingXML:73 - Problem with parsing from net -> Offline mode
+2015-07-18 12:18:26 ERROR ParsingXML:73 - Problem with parsing from net -> Offline mode
+2015-07-18 12:18:27 ERROR ParsingXML:73 - Problem with parsing from net -> Offline mode
+2015-07-18 12:20:02 ERROR ParsingXML:74 - Problem with parsing from net -> Offline mode
+2015-07-18 12:24:11 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.15242146
+2015-07-18 12:24:18 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :111.76494
+2015-07-18 12:24:23 ERROR ClientGUI:103 - Wrong input -> (empty String)
+2015-07-18 12:24:43 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :2093.785
+2015-07-18 12:24:47 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :17.19699
+2015-07-18 12:24:50 INFO  ClientGUI:80 - Turning default currency to convert from Shekel
+2015-07-18 12:24:50 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :31.086388
+2015-07-18 12:25:05 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :841.78406
+2015-07-18 12:30:28 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :13.479425
+2015-07-18 12:30:33 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.081527784
+2015-07-18 12:30:37 INFO  ClientGUI:80 - Turning default currency to convert from Shekel
+2015-07-18 12:30:37 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.16848063
+2015-07-18 13:12:30 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.112855546
+2015-07-18 13:12:32 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :6.3153543
+2015-07-18 13:12:37 ERROR ClientGUI:103 - Wrong input -> (empty String)
+2015-07-18 13:12:41 INFO  ClientGUI:80 - Turning default currency to convert from Shekel
+2015-07-18 13:12:44 ERROR ClientGUI:103 - Wrong input -> (empty String)
+2015-07-18 13:12:49 ERROR ClientGUI:103 - Wrong input -> (empty String)
+2015-07-18 13:12:53 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :2879.8015
+2015-07-18 13:13:46 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.13403112
+2015-07-18 13:13:49 INFO  ClientGUI:92 - Turning default currency to convert to Shekel
+2015-07-18 13:13:49 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :4.1274
+2015-07-18 13:13:57 INFO  ClientGUI:92 - Turning default currency to convert to Shekel
+2015-07-18 13:13:57 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :3.789
+2015-07-18 13:14:03 INFO  ClientGUI:80 - Turning default currency to convert from Shekel
+2015-07-18 13:14:04 INFO  ClientGUI:92 - Turning default currency to convert to Shekel
+2015-07-18 13:14:04 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :1.0
+2015-07-18 13:14:10 INFO  ClientGUI:80 - Turning default currency to convert from Shekel
+2015-07-18 13:14:10 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :1.8076645
+2015-07-18 13:14:22 INFO  ClientGUI:92 - Turning default currency to convert to Shekel
+2015-07-18 13:14:22 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.5532
+2015-07-18 13:15:55 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.5250127
+2015-07-18 13:15:59 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.70911235
+2015-07-18 13:16:04 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :-4.3146534
+2015-07-18 13:16:09 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :-0.01987566
+2015-07-18 13:18:34 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.5250127
+2015-07-18 13:18:39 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :1.4102137
+2015-07-18 13:18:43 ERROR ClientGUI:103 - Wrong input -> (For input string: "fd")
+2015-07-18 13:18:50 ERROR ClientGUI:103 - Wrong input -> (multiple points)
+2015-07-18 13:18:53 INFO  ClientGUI:80 - Turning default currency to convert from Shekel
+2015-07-18 13:18:54 ERROR ClientGUI:103 - Wrong input -> (empty String)
+2015-07-18 13:18:58 ERROR ClientGUI:103 - Wrong input -> (empty String)
+2015-07-18 13:19:02 INFO  ClientGUI:92 - Turning default currency to convert to Shekel
+2015-07-18 13:19:02 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :1393.536
+2015-07-18 13:24:40 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.77136654
+2015-07-18 13:24:42 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :5.524223
+2015-07-18 15:43:57 ERROR ClientGUI:103 - Wrong input -> (For input string: "Canada")
+2015-07-18 15:44:05 ERROR ClientGUI:103 - Wrong input -> (For input string: "Canada")
+2015-07-18 15:44:07 ERROR ClientGUI:103 - Wrong input -> (For input string: "Canada")
+2015-07-18 15:44:10 ERROR ClientGUI:103 - Wrong input -> (For input string: "Canada")
+2015-07-18 15:44:13 ERROR ClientGUI:103 - Wrong input -> (For input string: "Lebanon")
+2015-07-18 16:37:48 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :1.0
+2015-07-18 16:37:58 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.0
+2015-07-18 16:38:03 INFO  ClientGUI:80 - Turning default currency to convert from Shekel
+2015-07-18 16:38:03 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :1.0
+2015-07-18 16:58:31 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.051588774
+2015-07-18 16:58:34 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.57193124
+2015-07-18 16:58:48 INFO  ClientGUI:80 - Turning default currency to convert from Shekel
+2015-07-18 16:58:48 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.18715027
+2015-07-18 16:58:50 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.05730541
+2015-07-18 16:58:54 INFO  ClientGUI:92 - Turning default currency to convert to Shekel
+2015-07-18 16:58:54 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :3.056
+2015-07-18 17:00:10 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :67.234695
+2015-07-18 17:02:57 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.051588774
+2015-07-18 17:03:05 ERROR ClientGUI:103 - Wrong input -> (empty String)
+2015-07-18 23:42:40 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :0.6674866
+2015-07-18 23:42:41 INFO  ClientGUI:99 - Exchange button was pressed. The exchange is :1.0417992
+2015-07-18 23:48:35 INFO  ClientGUI:101 - Exchange button was pressed. The exchange is :0.77136654
+2015-07-18 23:48:37 INFO  ClientGUI:101 - Exchange button was pressed. The exchange is :0.9558573
+2015-07-18 23:48:40 INFO  ClientGUI:94 - Turning default currency to convert to Shekel
+2015-07-18 23:48:40 INFO  ClientGUI:101 - Exchange button was pressed. The exchange is :5.9354
+2015-07-18 23:50:36 INFO  ClientGUI:101 - Exchange button was pressed. The exchange is :0.112855546
+2015-07-18 23:55:16 INFO  ClientGUI:102 - Exchange button was pressed. The exchange is :0.112855546
+2015-07-18 23:55:18 INFO  ClientGUI:102 - Exchange button was pressed. The exchange is :0.77136654
+2015-07-18 23:55:21 INFO  ClientGUI:102 - Exchange button was pressed. The exchange is :0.15834424
+2015-07-18 23:55:24 INFO  ClientGUI:95 - Turning default currency to convert to Shekel
+2015-07-18 23:55:24 INFO  ClientGUI:102 - Exchange button was pressed. The exchange is :0.4839
+2015-07-18 23:55:29 INFO  ClientGUI:95 - Turning default currency to convert to Shekel
+2015-07-18 23:55:29 INFO  ClientGUI:102 - Exchange button was pressed. The exchange is :3.789
+2015-07-18 23:55:33 INFO  ClientGUI:83 - Turning default currency to convert from Shekel
+2015-07-18 23:55:33 INFO  ClientGUI:102 - Exchange button was pressed. The exchange is :0.2639219
+2015-07-18 23:55:36 INFO  ClientGUI:102 - Exchange button was pressed. The exchange is :0.77094215
+2015-07-18 23:55:37 INFO  ClientGUI:102 - Exchange button was pressed. The exchange is :9.539843
+2015-07-18 23:55:38 INFO  ClientGUI:102 - Exchange button was pressed. The exchange is :13.479425
+2015-07-18 23:55:42 ERROR ClientGUI:106 - Wrong input -> (For input string: "dfg")
+2015-07-18 23:55:46 ERROR ClientGUI:106 - Wrong input -> (For input string: "sd")
+2015-07-18 23:55:49 ERROR ClientGUI:106 - Wrong input -> (empty String)
+2015-07-19 00:13:53 INFO  ClientGUI:90 - Turning default currency to convert from Shekel
+2015-07-19 00:13:55 INFO  ClientGUI:102 - Turning default currency to convert to Shekel
+2015-07-19 00:13:55 INFO  ClientGUI:109 - Exchange button was pressed. The exchange is :8.0
+2015-07-19 00:13:57 INFO  ClientGUI:109 - Exchange button was pressed. The exchange is :1.5775853
+2015-07-19 00:13:59 INFO  ClientGUI:109 - Exchange button was pressed. The exchange is :11.561071
+2015-07-19 00:14:01 INFO  ClientGUI:109 - Exchange button was pressed. The exchange is :1315.506
+2015-07-19 00:16:38 INFO  ClientGUI:110 - Exchange button was pressed. The exchange is :0.15242146
+2015-07-19 00:16:41 INFO  ClientGUI:110 - Exchange button was pressed. The exchange is :1.0417992
+2015-07-19 00:16:45 INFO  ClientGUI:110 - Exchange button was pressed. The exchange is :0.6674866
+2015-07-19 00:38:11 INFO  ClientGUI:119 - Exchange button was pressed. The exchange is :0.13403112
+2015-07-19 00:38:13 INFO  ClientGUI:119 - Exchange button was pressed. The exchange is :1.4981574
+2015-07-19 00:38:16 INFO  ClientGUI:119 - Exchange button was pressed. The exchange is :0.47263876
+2015-07-19 00:39:30 INFO  ClientGUI:119 - Exchange button was pressed. The exchange is :9.539843
+2015-07-19 00:39:32 INFO  ClientGUI:119 - Exchange button was pressed. The exchange is :1.9422121
+2015-07-19 00:49:37 INFO  ClientGUI:118 - Exchange button was pressed. The exchange is :0.57193124
+2015-07-19 00:49:41 INFO  ClientGUI:118 - Exchange button was pressed. The exchange is :1.904716
+2015-07-19 00:51:42 INFO  ClientGUI:119 - Exchange button was pressed. The exchange is :0.9598779
+2015-07-19 00:54:33 INFO  ClientGUI:119 - Exchange button was pressed. The exchange is :0.10482353
+2015-07-19 01:10:24 INFO  ClientGUI:115 - Exchange button was pressed. The exchange is :0.7080872
+2015-07-19 01:10:27 INFO  ClientGUI:115 - Exchange button was pressed. The exchange is :0.47263876
+2015-07-19 01:20:03 INFO  ClientGUI:96 - Turning default currency to convert from Shekel
+2015-07-19 01:20:04 INFO  ClientGUI:108 - Turning default currency to convert to Shekel
+2015-07-19 01:20:04 INFO  ClientGUI:116 - Exchange button was pressed. The exchange is :1.0
+2015-07-19 01:31:08 INFO  ClientGUI:125 - Exchange button was pressed. The exchange is :0.57193124
+2015-07-19 01:31:11 INFO  ClientGUI:106 - Turning default currency to convert from Shekel
+2015-07-19 01:31:11 INFO  ClientGUI:125 - Exchange button was pressed. The exchange is :0.18715027
+2015-07-19 02:00:08 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :1.2964005
+2015-07-19 02:00:10 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :0.772444
+2015-07-19 02:00:18 INFO  ClientGUI:114 - Turning default currency to convert to Shekel
+2015-07-19 02:00:18 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :3.789
+2015-07-19 02:03:44 INFO  ClientGUI:105 - Turning default currency to convert from Shekel
+2015-07-19 02:03:48 INFO  ClientGUI:114 - Turning default currency to convert to Shekel
+2015-07-19 02:03:48 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :1.0
+2015-07-19 02:04:19 INFO  ClientGUI:114 - Turning default currency to convert to Shekel
+2015-07-19 02:04:19 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :0.5532
+2015-07-19 02:04:55 INFO  ClientGUI:107 - Turning default currency to convert from Shekel
+2015-07-19 02:04:57 INFO  ClientGUI:118 - Turning default currency to convert to Shekel
+2015-07-19 02:04:57 INFO  ClientGUI:124 - Exchange button was pressed. The exchange is :1.0
+2015-07-19 02:35:47 INFO  ClientGUI:105 - Turning default currency to convert from Shekel
+2015-07-19 02:35:48 INFO  ClientGUI:114 - Turning default currency to convert to Shekel
+2015-07-19 02:35:48 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :1.0
+2015-07-19 02:41:17 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :0.13963349
+2015-07-19 02:45:40 INFO  ClientGUI:114 - Turning default currency to convert to Shekel
+2015-07-19 02:45:40 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :4.1274
+2015-07-19 02:46:41 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :6.6013556
+2015-07-19 02:47:15 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :0.63277537
+2015-07-19 02:47:18 INFO  ClientGUI:114 - Turning default currency to convert to Shekel
+2015-07-19 02:47:18 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :0.3062
+2015-07-19 02:47:20 INFO  ClientGUI:105 - Turning default currency to convert from Shekel
+2015-07-19 02:47:21 INFO  ClientGUI:114 - Turning default currency to convert to Shekel
+2015-07-19 02:47:21 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :1.0
+2015-07-19 02:47:24 INFO  ClientGUI:105 - Turning default currency to convert from Shekel
+2015-07-19 02:47:24 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :0.16848063
+2015-07-19 02:47:26 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :0.63837314
+2015-07-19 02:47:54 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :0.078478284
+2015-07-19 02:47:56 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :0.47263876
+2015-07-19 02:47:59 INFO  ClientGUI:114 - Turning default currency to convert to Shekel
+2015-07-19 02:47:59 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :3.789
+2015-07-19 02:48:05 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :1.0
+2015-07-19 02:48:08 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :0.63837314
+2015-07-19 02:49:07 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :2.1157808
+2015-07-19 02:49:08 INFO  ClientGUI:120 - Exchange button was pressed. The exchange is :0.1229348
+2015-07-19 02:59:46 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.10353153
+2015-07-19 02:59:48 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.008213351
+2015-07-19 03:02:18 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.10915054
+2015-07-19 03:02:20 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :8.562712
+2015-07-19 03:02:22 INFO  ClientGUI:107 - Turning default currency to convert from Shekel
+2015-07-19 03:02:22 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.24228328
+2015-07-19 03:02:25 INFO  ClientGUI:107 - Turning default currency to convert from Shekel
+2015-07-19 03:02:27 INFO  ClientGUI:116 - Turning default currency to convert to Shekel
+2015-07-19 03:02:27 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :1.0
+2015-07-19 03:02:29 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.7373163
+2015-07-19 03:05:29 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.5250127
+2015-07-19 03:05:31 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.008592654
+2015-07-19 03:05:50 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.10353153
+2015-07-19 03:05:51 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.09320349
+2015-07-19 03:05:53 INFO  ClientGUI:107 - Turning default currency to convert from Shekel
+2015-07-19 03:05:53 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.16848063
+2015-07-19 03:06:00 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :2.6682615
+2015-07-19 03:10:29 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.7080872
+2015-07-19 03:42:41 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.9598779
+2015-07-19 03:42:45 INFO  ClientGUI:107 - Turning default currency to convert from Shekel
+2015-07-19 03:42:45 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.24228328
+2015-07-19 03:42:48 INFO  ClientGUI:107 - Turning default currency to convert from Shekel
+2015-07-19 03:42:50 INFO  ClientGUI:116 - Turning default currency to convert to Shekel
+2015-07-19 03:42:50 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :1.0
+2015-07-19 03:42:57 INFO  ClientGUI:116 - Turning default currency to convert to Shekel
+2015-07-19 03:42:57 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :4.1274
+2015-07-19 03:43:00 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :13.479425
+2015-07-19 04:02:00 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.5466846
+2015-07-19 04:03:17 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.5250127
+2015-07-19 04:14:56 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :111.76494
+2015-07-19 04:16:37 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :8.529448
+2015-07-19 04:22:19 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.772444
+2015-07-19 04:22:23 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.0066244393
+2015-07-19 04:22:27 INFO  ClientGUI:122 - Exchange button was pressed. The exchange is :0.63837314
+2015-07-19 04:26:12 INFO  ClientGUI:121 - Exchange button was pressed. The exchange is :0.08197257
+2015-07-19 12:05:34 INFO  ClientGUI:121 - Exchange button was pressed. The exchange is :0.5466846
+2015-07-19 12:05:36 INFO  ClientGUI:121 - Exchange button was pressed. The exchange is :0.6674866
+2015-07-19 12:09:47 INFO  ClientGUI:121 - Exchange button was pressed. The exchange is :0.5250127
+2015-07-19 12:09:49 INFO  ClientGUI:121 - Exchange button was pressed. The exchange is :0.6674866
+2015-07-19 12:11:13 INFO  ClientGUI:163 - Exchange button was pressed. The exchange is :0.7080872
+2015-07-19 12:11:17 INFO  ClientGUI:148 - Turning default currency to convert from Shekel
+2015-07-19 12:11:17 INFO  ClientGUI:163 - Exchange button was pressed. The exchange is :0.2524105
+2015-07-19 14:11:12 INFO  ClientGUI:161 - Exchange button was pressed. The exchange is :1.2945923
+2015-07-19 15:01:27 INFO  ClientGUI:161 - Exchange button was pressed. The exchange is :14.682583
+2015-07-20 11:09:25 INFO  ClientGUI:161 - Exchange button was pressed. The exchange is :1.2971141
+2015-07-20 11:09:33 INFO  ClientGUI:161 - Exchange button was pressed. The exchange is :2.031906
+2015-07-20 11:09:36 INFO  ClientGUI:161 - Exchange button was pressed. The exchange is :0.63837314
+2015-07-20 11:18:43 INFO  ClientGUI:161 - Exchange button was pressed. The exchange is :23.140997
+2015-07-20 11:20:26 INFO  ClientGUI:161 - Submit button was pressed. The exchange is :18.900455
+2015-07-20 11:21:13 INFO  ClientGUI:146 - Turning default currency to convert from Shekel
+2015-07-20 11:21:13 INFO  ClientGUI:161 - Submit button was pressed. The exchange is :6.7374096
+2015-07-20 11:22:48 ERROR ClientGUI:167 - Wrong input -> (empty String)
+2015-07-20 12:06:26 INFO  ClientGUI:161 - Submit button was pressed. The exchange is :0.63837314
+2015-07-20 12:23:06 INFO  ClientGUI:149 - Turning default currency to convert from Shekel
+2015-07-20 12:23:06 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :3.2658393
+2015-07-20 12:23:37 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :657.2952
+2015-07-20 12:23:52 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :-85.85859
+2015-07-20 12:23:58 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :-85.85859
+2015-07-20 12:24:07 ERROR ClientGUI:170 - Wrong input -> (For input string: "-9.i")
+2015-07-20 12:24:18 ERROR ClientGUI:170 - Wrong input -> (For input string: "3.f.")
+2015-07-20 12:24:22 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :28.61953
+2015-07-20 12:24:27 ERROR ClientGUI:170 - Wrong input -> (For input string: "f")
+2015-07-20 12:24:32 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :32.435467
+2015-07-20 12:24:38 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :32.435467
+2015-07-20 12:24:57 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :32.435467
+2015-07-20 12:24:59 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :32.435467
+2015-07-20 12:25:04 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :32.435467
+2015-07-20 12:25:07 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :32.435467
+2015-07-20 12:25:11 ERROR ClientGUI:170 - Wrong input -> (For input string: "f")
+2015-07-20 12:25:18 ERROR ClientGUI:170 - Wrong input -> (For input string: "f.4")
+2015-07-20 12:25:32 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :38.15937
+2015-07-20 12:25:37 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :-38.15937
+2015-07-20 12:25:56 ERROR ClientGUI:170 - Wrong input -> (For input string: "-4.l")
+2015-07-20 12:26:02 ERROR ClientGUI:170 - Wrong input -> (For input string: "-5.i")
+2015-07-20 12:33:14 INFO  ClientGUI:149 - Turning default currency to convert from Shekel
+2015-07-20 12:33:16 INFO  ClientGUI:158 - Turning default currency to convert to Shekel
+2015-07-20 12:33:16 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :1.0
+2015-07-20 12:33:31 INFO  ClientGUI:149 - Turning default currency to convert from Shekel
+2015-07-20 12:33:32 INFO  ClientGUI:158 - Turning default currency to convert to Shekel
+2015-07-20 12:33:32 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :1.0
+2015-07-20 12:39:06 ERROR ClientGUI:169 - Wrong input -> (For input string: "-j")
+2015-07-20 12:40:00 INFO  ClientGUI:149 - Turning default currency to convert from Shekel
+2015-07-20 12:40:01 INFO  ClientGUI:158 - Turning default currency to convert to Shekel
+2015-07-20 12:40:01 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :1.0
+2015-07-20 12:40:11 INFO  ClientGUI:158 - Turning default currency to convert to Shekel
+2015-07-20 12:40:11 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :2.9211
+2015-07-20 12:40:26 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :0.5466846
+2015-07-20 12:40:31 INFO  ClientGUI:158 - Turning default currency to convert to Shekel
+2015-07-20 12:40:31 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :2.9211
+2015-07-20 12:40:42 INFO  ClientGUI:149 - Turning default currency to convert from Shekel
+2015-07-20 12:40:42 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :0.16848063
+2015-07-20 13:02:34 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :9.327457
+2015-07-20 13:04:19 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :5.797272
+2015-07-20 13:04:21 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :0.08081288
+2015-07-20 13:29:18 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :0.79989153
+2015-07-20 13:29:19 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :22.03984
+2015-07-20 13:44:14 ERROR ParsingXML:101 - Problem with parsing from net -> Offline mode
+2015-07-20 13:45:35 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :1.2767463
+2015-07-20 14:33:58 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :0.63837314
+2015-07-20 14:34:13 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :26.582655
+2015-07-20 14:34:17 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :0.9051047
+2015-07-20 14:34:21 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :-13.757592
+2015-07-20 14:34:29 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :-13757.592
+2015-07-20 14:34:30 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :-13757.592
+2015-07-20 14:34:33 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :13757.592
+2015-07-20 14:34:38 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :1.3757591E9
+2015-07-20 14:34:42 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :22.446598
+2015-07-20 14:34:48 ERROR ClientGUI:169 - Wrong input -> (For input string: "124fhgj")
+2015-07-20 14:36:12 ERROR ClientGUI:169 - Wrong input -> (empty String)
+2015-07-20 14:36:30 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :1.350589
+2015-07-20 14:38:17 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :15.774071
+2015-07-21 10:43:57 INFO  ClientGUI:149 - Turning default currency to convert from Shekel
+2015-07-21 10:43:59 INFO  ClientGUI:158 - Turning default currency to convert to Shekel
+2015-07-21 10:43:59 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :1.0
+2015-07-21 10:47:12 INFO  ClientGUI:150 - Turning default currency to convert from Shekel
+2015-07-21 10:47:12 INFO  ClientGUI:165 - Submit button was pressed. The exchange is :2.1477664
+2015-07-21 11:24:00 INFO  ClientGUI:150 - Turning default currency to convert from Shekel
+2015-07-21 11:24:00 INFO  ClientGUI:165 - Submit button was pressed. The exchange is :2.147766323024055
+2015-07-21 11:24:05 INFO  ClientGUI:165 - Submit button was pressed. The exchange is :8.899699312714777
+2015-07-21 11:24:11 INFO  ClientGUI:150 - Turning default currency to convert from Shekel
+2015-07-21 11:24:11 INFO  ClientGUI:165 - Submit button was pressed. The exchange is :2.147766323024055
+2015-07-21 11:29:06 INFO  ClientGUI:150 - Turning default currency to convert from Shekel
+2015-07-21 11:29:06 INFO  ClientGUI:165 - Submit button was pressed. The exchange is :1.8005041411595246
+2015-07-21 11:29:10 INFO  ClientGUI:150 - Turning default currency to convert from Shekel
+2015-07-21 11:29:10 INFO  ClientGUI:165 - Submit button was pressed. The exchange is :1.8005041411595246
+2015-07-21 11:47:47 INFO  ClientGUI:165 - Submit button was pressed. The exchange is :0.10674035282477014
+2015-07-21 11:47:49 INFO  ClientGUI:165 - Submit button was pressed. The exchange is :163.13779527559055
+2015-07-21 11:47:53 ERROR ClientGUI:170 - Wrong input -> (empty String)
+2015-07-21 11:47:59 INFO  ClientGUI:150 - Turning default currency to convert from Shekel
+2015-07-21 11:47:59 INFO  ClientGUI:165 - Submit button was pressed. The exchange is :39.37007874015748
+2015-07-21 11:53:18 INFO  ClientGUI:152 - Turning default currency to convert from Shekel
+2015-07-21 11:53:18 INFO  ClientGUI:167 - Submit button was pressed. The exchange is :2.2609088853719195
+2015-07-21 12:09:15 INFO  ClientGUI:151 - Turning default currency to convert from Shekel
+2015-07-21 12:09:15 INFO  ClientGUI:166 - Submit button was pressed. The exchange is :3.248862897985705
+2015-07-21 12:10:44 INFO  ClientGUI:151 - Turning default currency to convert from Shekel
+2015-07-21 12:10:44 INFO  ClientGUI:166 - Submit button was pressed. The exchange is :0.33982397118292723
+2015-07-21 12:11:12 INFO  ClientGUI:151 - Turning default currency to convert from Shekel
+2015-07-21 12:11:12 INFO  ClientGUI:166 - Submit button was pressed. The exchange is :2.147766323024055
+2015-07-21 12:13:06 INFO  ClientGUI:150 - Turning default currency to convert from Shekel
+2015-07-21 12:13:06 INFO  ClientGUI:165 - Submit button was pressed. The exchange is :2.1477664
+2015-07-21 12:38:15 ERROR ParsingXML:101 - Problem with parsing from net -> Offline mode
+2015-07-21 12:38:25 INFO  ClientGUI:149 - Turning default currency to convert from Shekel
+2015-07-21 12:38:25 INFO  ClientGUI:164 - Submit button was pressed. The exchange is :3.248863
+2015-07-21 12:41:49 INFO  ClientGUI:149 - Turning default currency to convert from Shekel
+2015-07-21 12:41:50 INFO  ClientGUI:172 - Submit button was pressed. The exchange is :2.1477664
+2015-07-21 12:41:57 INFO  ClientGUI:166 - Turning default currency to convert to Shekel
+2015-07-21 12:41:57 INFO  ClientGUI:172 - Submit button was pressed. The exchange is :0.5554
+2015-07-21 12:51:50 INFO  ClientGUI:150 - Turning default currency to convert from Shekel
+2015-07-21 12:51:50 INFO  ClientGUI:173 - Submit button was pressed. The exchange is :1.8005041
+2015-08-01 20:44:38 INFO  ClientGUI:173 - Submit button was pressed. The exchange is :578.506
+2015-08-01 20:44:42 INFO  ClientGUI:173 - Submit button was pressed. The exchange is :2.4536345
+2015-08-01 20:44:43 INFO  ClientGUI:173 - Submit button was pressed. The exchange is :30.341995
+2015-08-01 20:44:45 INFO  ClientGUI:173 - Submit button was pressed. The exchange is :231.20506
+2015-08-01 20:44:48 ERROR ClientGUI:178 - Wrong input -> (empty String)
+2015-08-01 20:44:51 ERROR ClientGUI:178 - Wrong input -> (empty String)
+2015-08-01 20:45:06 INFO  ClientGUI:173 - Submit button was pressed. The exchange is :2.8988507
